@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a40257d99c9d6731ae9e28?variant=dark)](https://roadmap.sh)
+
 <!--
 **Tom-Mendy/Tom-Mendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
