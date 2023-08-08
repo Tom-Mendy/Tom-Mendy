@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a40257d99c9d6731ae9e28?variant=dark)](https://roadmap.sh)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Tom-Mendy/Tom-Mendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
