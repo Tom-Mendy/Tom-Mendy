@@ -25,7 +25,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=" alt="java" /> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" alt="jenkins" /> </a>
   <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=black" alt="jmeter" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/java%20script-white?style=for-the-badge&logo=java-script" alt="javascript" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/java%20script-white?style=for-the-badge&logo=javascript" alt="javascript" /> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux" alt="linux" /> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="mysql" /> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node%20js-white?style=for-the-badge&logo=nodedotjs" alt="nodejs" /> </a>
