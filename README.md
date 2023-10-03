@@ -19,13 +19,13 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c" alt="bash" /> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker" alt="docker" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black" alt="express" /> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana" /> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git" /> </a>
+  <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana" /> </a>
   <a href="https://www.groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/groovy-white?style=for-the-badge&logo=apachegroovy" alt="groovy" /> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=oracle&logoColor=red" alt="java" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/java%20script-white?style=for-the-badge&logo=javascript" alt="javascript" /> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" alt="jenkins" /> </a>
   <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=red" alt="jmeter" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/java%20script-white?style=for-the-badge&logo=javascript" alt="javascript" /> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux" alt="linux" /> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="mysql" /> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node%20js-white?style=for-the-badge&logo=nodedotjs" alt="nodejs" /> </a>
