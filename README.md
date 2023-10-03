@@ -15,24 +15,21 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="center" class="white-background">
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.groovy-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"iodth="40" height="40"/> </a>
-  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="java" width="80" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/bash-white?style=for-the-badge&logo=gnubash" alt="bash" /> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c" alt="bash" /> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker" alt="docker" /> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black" alt="express" /> </a>
+  <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git" /> </a>
+  <a href="https://www.groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/groovy-white?style=for-the-badge&logo=groovy" alt="groovy" /> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=" alt="java" /> </a>
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" alt="jenkins" /> </a>
+  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=black" alt="jmeter" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/java%20script-white?style=for-the-badge&logo=java-script" alt="javascript" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux" alt="linux" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="mysql" /> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node%20js-white?style=for-the-badge&logo=nodedotjs" alt="nodejs" /> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman" alt="postman" /> </a>
+  <a href="https://prometheus.io/" target="_blank"> <img src="https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus" alt="prometheus" /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="python" /> </a>
 </p>
