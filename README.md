@@ -21,7 +21,7 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black" alt="express" /> </a>
   <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana" /> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git" /> </a>
-  <a href="https://www.groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/groovy-white?style=for-the-badge&logo=groovy" alt="groovy" /> </a>
+  <a href="https://www.groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/groovy-white?style=for-the-badge&logo=apachegroovy" alt="groovy" /> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=" alt="java" /> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" alt="jenkins" /> </a>
   <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=black" alt="jmeter" /> </a>
