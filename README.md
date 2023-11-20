@@ -30,6 +30,7 @@
   <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-0d1016?style=for-the-badge&logo=apachejmeter" alt="jmeter" /> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/kubernetes-0d1016?style=for-the-badge&logo=kubernetes" alt="kubernetes" /> </a>
   <a href="https://linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-0d1016?style=for-the-badge&logo=linux" alt="linux" /> </a>
+  <a href="https://grafana.com/oss/loki/" target="_blank"> <img src="https://img.shields.io/badge/loki-0d1016?style=for-the-badge&logo=grafana" alt="loki" /> </a>
   <a href="https://mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-0d1016?style=for-the-badge&logo=mysql" alt="mysql" /> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node%20js-0d1016?style=for-the-badge&logo=nodedotjs" alt="nodejs" /> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-0d1016?style=for-the-badge&logo=postman" alt="postman" /> </a>
