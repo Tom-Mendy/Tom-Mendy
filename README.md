@@ -15,7 +15,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="center">
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.shields.io/badge/bash-0d1016?style=for-the-badge&logo=ansible" alt="ansible" /> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.shields.io/badge/ansible-0d1016?style=for-the-badge&logo=ansible" alt="ansible" /> </a>
   <a href="https://gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/bash-0d1016?style=for-the-badge&logo=gnubash" alt="bash" /> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-0d1016?style=for-the-badge&logo=c" alt="C" /> </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.shields.io/badge/C++-0d1016?style=for-the-badge&logo=cplusplus" alt="Cpp" /> </a>
