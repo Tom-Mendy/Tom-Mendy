@@ -6,13 +6,6 @@
   <a href="https://linkedin.com/in/tom-mendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tom-mendy" height="30" width="30" /></a>
 </p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=radical" alt="Tom-Mendy" /></p>
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=radical" alt="Tom-Mendy" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=compact&theme=radical" alt="Tom-Mendy" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=radical" alt="Tom-Mendy" /></p>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="center">
@@ -40,3 +33,16 @@
   <a href="https://prometheus.io/" target="_blank"> <img src="https://img.shields.io/badge/prometheus-0d1016?style=for-the-badge&logo=prometheus" alt="prometheus" /> </a>
   <a href="https://python.org" target="_blank"> <img src="https://img.shields.io/badge/python-0d1016?style=for-the-badge&logo=python" alt="python" /> </a>
 </p>
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=radical" alt="Tom-Mendy" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=radical" alt="Tom-Mendy" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=donut&theme=radical" alt="Tom-Mendy" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=radical" alt="Tom-Mendy" />
+</div>
