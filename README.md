@@ -15,7 +15,7 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-0d1016?style=for-the-badge&logo=c" alt="C" /> </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.shields.io/badge/C++-0d1016?style=for-the-badge&logo=cplusplus" alt="Cpp" /> </a>
   <a href="https://docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-0d1016?style=for-the-badge&logo=docker" alt="docker" /> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-0d1016?style=for-the-badge&logo=express" alt="express" /> </a>
+<!--   <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/express-0d1016?style=for-the-badge&logo=express" alt="express" /> </a> -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-0d1016?style=for-the-badge&logo=git" alt="git" /> </a>
   <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/grafana-0d1016?style=for-the-badge&logo=grafana" alt="grafana" /> </a>
 <!--   <a href="https://groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/groovy-0d1016?style=for-the-badge&logo=apachegroovy" alt="groovy" /> </a> -->
@@ -25,6 +25,7 @@
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://img.shields.io/badge/jenkins-0d1016?style=for-the-badge&logo=jenkins" alt="jenkins" /> </a>
 <!--   <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/jmeter-0d1016?style=for-the-badge&logo=apachejmeter" alt="jmeter" /> </a> -->
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/kubernetes-0d1016?style=for-the-badge&logo=kubernetes" alt="kubernetes" /> </a>
+  <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/laravel-0d1016?style=for-the-badge&logo=laravel" alt="laravel" /> </a>
   <a href="https://linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-0d1016?style=for-the-badge&logo=linux" alt="linux" /> </a>
   <a href="https://grafana.com/oss/loki/" target="_blank"> <img src="https://img.shields.io/badge/loki-0d1016?style=for-the-badge&logo=grafana" alt="loki" /> </a>
   <a href="https://mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-0d1016?style=for-the-badge&logo=mysql" alt="mysql" /> </a>
