@@ -76,12 +76,12 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=radical" alt="Tom-Mendy" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=radical" alt="Tom-Mendy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=transparent" alt="Tom-Mendy" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=transparent" alt="Tom-Mendy" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=donut&theme=radical" alt="Tom-Mendy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=donut&theme=transparent" alt="Tom-Mendy" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=radical" alt="Tom-Mendy" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=transparent" alt="Tom-Mendy" />
 </div>
