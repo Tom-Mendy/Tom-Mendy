@@ -245,12 +245,21 @@
     />
   </a>
   <a href="https://postman.com">
-    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman" alt="postman" />
+    <img
+      src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+      alt="postman"
+    />
   </a>
   <a href="https://prometheus.io/">
     <img
       src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
       alt="prometheus"
+    />
+  </a>
+  <a href="https://traefik.io/">
+    <img
+      src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"
+      alt="traefik"
     />
   </a>
 </div>
