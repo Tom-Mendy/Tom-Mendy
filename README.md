@@ -10,14 +10,14 @@
 
 <h3> Programming Languages 🔧</h3>
 
-<a href="https://gnu.org/software/bash"> <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
-<a href="https://go.dev"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> </a>
-<a href="https://haskell.org"> <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /> </a>
-<a href="https://java.com"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> </a>
-<a href="https://php.net"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> </a>
-<a href="https://python.org"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
+<a href="https://gnu.org/software/bash"> <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" > </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" > </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > </a>
+<a href="https://go.dev"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" > </a>
+<a href="https://haskell.org"> <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" > </a>
+<a href="https://java.com"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" > </a>
+<a href="https://php.net"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" > </a>
+<a href="https://python.org"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" > </a>
 
 <h3> Web devellopement 🌐</h3>
 
