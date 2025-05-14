@@ -75,6 +75,12 @@
       alt="Python"
     />
   </a>
+  <a href="https://www.rust-lang.org">
+    <img
+      src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+      alt="Rust"
+    />
+  </a>
 </div>
 
 <h3>Web development 🌐</h3>
@@ -87,11 +93,11 @@
     />
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img
-      src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white"
+      src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript"
     />
   </a>
@@ -172,18 +178,7 @@
 <h3>Ops ⚙️</h3>
 
 <div style="display: flex; gap: 10px">
-  <a href="https://www.ansible.com/">
-    <img
-      src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"
-      alt="Ansible"
-    />
-  </a>
-  <a href="https://apache.org">
-    <img
-      src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"
-      alt="Apache"
-    />
-  </a>
+
   <a href="https://maven.apache.org">
     <img
       src="https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"
@@ -208,36 +203,8 @@
       alt="Github"
     />
   </a>
-  <a href="https://grafana.com/">
-    <img
-      src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"
-      alt="grafana"
-    />
-  </a>
-  <a href="https://github.com/features/actions">
-    <img
-      src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
-      alt="GithubAction"
-    />
-  </a>
-  <a href="https://www.jenkins.io">
-    <img
-      src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
-      alt="jenkins"
-    />
-  </a>
-  <a href="https://jmeter.apache.org/">
-    <img
-      src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"
-      alt="jmeter"
-    />
-  </a>
-  <a href="https://k6.io">
-    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
-  </a>
-  <a href="https://nginx.org/en">
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  </a>
+
+
   <a href="https://markdownguide.org/">
     <img
       src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"
@@ -250,19 +217,96 @@
       alt="postman"
     />
   </a>
-  <a href="https://prometheus.io/">
+  <a href="https://gitlab.com">
     <img
-      src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
-      alt="prometheus"
+      src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="Gitlab"
     />
   </a>
-  <a href="https://traefik.io/">
+</div>
+
+<h3>Test 🧑‍🔬</h3>
+
+<div style="display: flex; gap: 10px">
+  <a href="https://jmeter.apache.org/">
+    <img
+      src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"
+      alt="jmeter"
+    />
+  </a>
+  <a href="https://k6.io">
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  </a>
+  <a href="https://selenium.dev">
+    <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  </a>
+</div>
+
+<h3>CI / CD 🤖</h3>
+
+<div style="display: flex; gap: 10px">
+  <a href="https://www.jenkins.io">
+    <img
+      src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
+      alt="jenkins"
+    />
+  </a>
+  <a href="https://www.ansible.com/">
+    <img
+      src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"
+      alt="Ansible"
+    />
+  </a>
+  <a href="https://github.com/features/actions">
+    <img
+      src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
+      alt="GithubAction"
+    />
+  </a>
+  <a href="https://docs.gitlab.com/ci/">
+    <img
+      src="https://img.shields.io/badge/gitlab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="GitlabCI"
+    />
+  </a>
+</div>
+
+<h3>Reverse Proxy 🚦</h3>
+
+<div style="display: flex; gap: 10px">
+  <a href="https://apache.org">
+    <img
+      src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"
+      alt="Apache"
+    />
+  </a>
+  <a href="https://nginx.org/en">
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  </a>
+    <a href="https://traefik.io/">
     <img
       src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"
       alt="traefik"
     />
   </a>
 </div>
+
+<h3>Monitoring 🔍</h3>
+
+<div style="display: flex; gap: 10px">
+  <a href="https://grafana.com/">
+    <img
+      src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+      alt="grafana"
+    />
+  </a>
+  <a href="https://prometheus.io/">
+    <img
+      src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
+      alt="prometheus"
+    />
+  </a>
+  </div>
 
 <h3>Container 🚢</h3>
 
