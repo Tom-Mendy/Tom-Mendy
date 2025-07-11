@@ -93,7 +93,7 @@
     />
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img
@@ -173,6 +173,12 @@
       alt="sqlite"
     />
   </a>
+  <a href="https://postgresql.org">
+    <img
+      src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"
+    />
+  </a>
 </div>
 
 <h3>Ops ⚙️</h3>
@@ -239,6 +245,12 @@
   </a>
   <a href="https://selenium.dev">
     <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube">
+    <img src="https://img.shields.io/badge/sonarqube%20server-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="Sonarqube_server" />
+  </a>
+  <a href="https://trivy.dev">
+    <img src="https://img.shields.io/badge/trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
   </a>
 </div>
 
@@ -365,6 +377,12 @@
     <img
       src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"
       alt="ArchLinux"
+    />
+  </a>
+  <a href="https://microsoft.com/windows">
+    <img
+      src="https://img.shields.io/badge/windows-0078d4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1%0AIDQ4NzUiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgy%0AMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQi%0ALz48L3N2Zz4%3D&logoColor=white"
+      alt="Windows"
     />
   </a>
 </div>
