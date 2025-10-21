@@ -223,21 +223,21 @@
 
 <div style="display: flex; gap: 10px">
 
-  <a href="https://maven.apache.org">
+  <!-- <a href="https://maven.apache.org">
     <img
       src="https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"
       alt="ApacheMaven"
     />
-  </a>
-  <a href="https://tomcat.apache.org">
+  </a> -->
+  <!-- <a href="https://tomcat.apache.org">
     <img
       src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"
       alt="ApacheTomcat"
     />
-  </a>
-  <a href="https://cmake.org">
+  </a> -->
+  <!-- <a href="https://cmake.org">
     <img src="https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
@@ -272,18 +272,18 @@
 <h3>Test 🧑‍🔬</h3>
 
 <div style="display: flex; gap: 10px">
-  <a href="https://jmeter.apache.org/">
+  <!-- <a href="https://jmeter.apache.org/">
     <img
       src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"
       alt="jmeter"
     />
-  </a>
+  </a> -->
   <a href="https://k6.io">
     <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
   </a>
-  <a href="https://selenium.dev">
+  <!-- <a href="https://selenium.dev">
     <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  </a>
+  </a> -->
   <a href="https://www.sonarsource.com/products/sonarqube">
     <img src="https://img.shields.io/badge/sonarqube%20server-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="Sonarqube_server" />
   </a>
