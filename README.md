@@ -27,6 +27,43 @@
   /></a>
 </p>
 
+
+<h2 style="display: flex; text-align: center; gap: 10px">
+  My GitHub Stats
+  <img
+    src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif"
+    width="40"
+    alt="GitHub Stats"
+  />
+</h2>
+
+<div style="display: flex; justify-content: center">
+  <div style="text-align: center">
+    <img
+      style="margin: auto"
+      src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=transparent"
+      alt="GitHub Stats"
+    />
+    <img
+      style="margin: auto"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=transparent"
+      alt="GitHub Streak Stats"
+    />
+    <img
+      style="margin: auto"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=donut&theme=transparent"
+      alt="Top Languages"
+    />
+  </div>
+  <div style="text-align: center">
+    <img
+      style="margin: auto"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=transparent"
+      alt="Wakatime Stats"
+    />
+  </div>
+</div>
+
 <h2>
   Skills
   <img
@@ -54,21 +91,27 @@
   <a href="https://go.dev">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   </a>
-  <a href="https://haskell.org">
+  <!-- <a href="https://haskell.org">
     <img
       src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"
       alt="Haskell"
     />
-  </a>
+  </a> -->
   <a href="https://java.com">
     <img
       src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
       alt="Java"
     />
   </a>
-  <a href="https://php.net">
+  <!-- <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img
+      src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"
+      alt="JavaScript"
+    />
+  </a> -->
+  <!-- <a href="https://php.net">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
+  </a> -->
   <a href="https://python.org">
     <img
       src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"
@@ -80,13 +123,20 @@
       src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"
       alt="Rust"
     />
+
+  <a href="https://www.typescriptlang.org">
+    <img
+      src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
+    />
+  </a>
   </a>
 </div>
 
 <h3>Web development 🌐</h3>
 
 <div style="display: flex; gap: 10px">
-  <a href="https://en.wikipedia.org/wiki/HTML">
+  <!-- <a href="https://en.wikipedia.org/wiki/HTML">
     <img
       src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="HTML"
@@ -94,19 +144,7 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img
-      src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"
-      alt="JavaScript"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org">
-    <img
-      src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="TypeScript"
-    />
-  </a>
+  </a> -->
   <a href="https://nodejs.org">
     <img
       src="https://img.shields.io/badge/node%20js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -120,18 +158,18 @@
       alt="Angular"
     />
   </a>
-  <a href="https://expressjs.com">
+  <!-- <a href="https://expressjs.com">
     <img
       src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white"
       alt="Express"
     />
-  </a>
-  <a href="https://laravel.com">
+  </a> -->
+  <!-- <a href="https://laravel.com">
     <img
       src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
       alt="Laravel"
     />
-  </a>
+  </a> -->
   <a href="https://react.dev">
     <img
       src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
@@ -157,22 +195,22 @@
       src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
       alt="Mariadb"
     />
-  </a>
+  <!-- </a>
   <a href="https://mysql.com">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" />
-  </a>
+  </a> -->
   <a href="https://mongodb.com">
     <img
       src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="MongoDB"
     />
   </a>
-  <a href="https://sqlite.org">
+  <!-- <a href="https://sqlite.org">
     <img
       src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"
     />
-  </a>
+  </a> -->
   <a href="https://postgresql.org">
     <img
       src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -387,38 +425,3 @@
   </a>
 </div>
 
-<h2 style="display: flex; text-align: center; gap: 10px">
-  My GitHub Stats
-  <img
-    src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif"
-    width="40"
-    alt="GitHub Stats"
-  />
-</h2>
-
-<div style="display: flex; justify-content: center">
-  <div style="text-align: center">
-    <img
-      style="margin: auto"
-      src="https://github-readme-stats.vercel.app/api?username=Tom-Mendy&show_icons=true&theme=transparent"
-      alt="GitHub Stats"
-    />
-    <img
-      style="margin: auto"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Tom-Mendy&theme=transparent"
-      alt="GitHub Streak Stats"
-    />
-    <img
-      style="margin: auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Mendy&layout=donut&theme=transparent"
-      alt="Top Languages"
-    />
-  </div>
-  <div style="text-align: center">
-    <img
-      style="margin: auto"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Tom_Mendy&layout=compact&theme=transparent"
-      alt="Wakatime Stats"
-    />
-  </div>
-</div>
